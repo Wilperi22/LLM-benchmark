@@ -1,0 +1,90 @@
+
+{
+  "id": "xrp_hourly_2026_05_14_to_2026_05_16",
+  "asset": {
+    "name": "XRP",
+    "symbol": "XRP",
+    "chain": "xrpl"
+  },
+
+  "fundamentals": {
+    "token_age_days": 4740,
+    "liquidity_locked": true,
+    "liquidity_usd": 2850000000,
+    "owner_percent": 0,
+    "top10_holders_percent": 18.4,
+    "mintable": false,
+    "contract_renounced": true,
+    "audit_exists": true
+  },
+
+  "market": {
+    "initial_price": 1.4271,
+    "steps": [
+      { "t": 0, "price": 1.4271, "volume": 18000000, "liquidity": 2820000000 },
+      { "t": 1, "price": 1.4310, "volume": 18500000, "liquidity": 2823000000 },
+      { "t": 2, "price": 1.4355, "volume": 19200000, "liquidity": 2827000000 },
+      { "t": 3, "price": 1.4402, "volume": 19800000, "liquidity": 2830000000 },
+      { "t": 4, "price": 1.4458, "volume": 20500000, "liquidity": 2835000000 },
+      { "t": 5, "price": 1.4520, "volume": 21400000, "liquidity": 2840000000 },
+      { "t": 6, "price": 1.4598, "volume": 22500000, "liquidity": 2846000000 },
+      { "t": 7, "price": 1.4682, "volume": 23600000, "liquidity": 2853000000 },
+      { "t": 8, "price": 1.4775, "volume": 24800000, "liquidity": 2860000000 },
+      { "t": 9, "price": 1.4890, "volume": 26100000, "liquidity": 2868000000 },
+      { "t": 10, "price": 1.5012, "volume": 27800000, "liquidity": 2875000000 },
+      { "t": 11, "price": 1.5148, "volume": 29200000, "liquidity": 2883000000 },
+      { "t": 12, "price": 1.5280, "volume": 30500000, "liquidity": 2890000000 },
+      { "t": 13, "price": 1.5405, "volume": 32100000, "liquidity": 2896000000 },
+      { "t": 14, "price": 1.5485, "volume": 33600000, "liquidity": 2900000000 },
+      { "t": 15, "price": 1.5420, "volume": 32800000, "liquidity": 2897000000 },
+      { "t": 16, "price": 1.5350, "volume": 31700000, "liquidity": 2892000000 },
+      { "t": 17, "price": 1.5260, "volume": 30900000, "liquidity": 2887000000 },
+      { "t": 18, "price": 1.5165, "volume": 29600000, "liquidity": 2881000000 },
+      { "t": 19, "price": 1.5072, "volume": 28500000, "liquidity": 2875000000 },
+      { "t": 20, "price": 1.4980, "volume": 27300000, "liquidity": 2869000000 },
+      { "t": 21, "price": 1.4890, "volume": 26100000, "liquidity": 2862000000 },
+      { "t": 22, "price": 1.4852, "volume": 25000000, "liquidity": 2857000000 },
+
+      { "t": 23, "price": 1.4800, "volume": 24500000, "liquidity": 2852000000 },
+      { "t": 24, "price": 1.4745, "volume": 23900000, "liquidity": 2848000000 },
+      { "t": 25, "price": 1.4692, "volume": 23300000, "liquidity": 2843000000 },
+      { "t": 26, "price": 1.4630, "volume": 22800000, "liquidity": 2839000000 },
+      { "t": 27, "price": 1.4575, "volume": 22200000, "liquidity": 2834000000 },
+      { "t": 28, "price": 1.4520, "volume": 21700000, "liquidity": 2830000000 },
+      { "t": 29, "price": 1.4472, "volume": 21200000, "liquidity": 2826000000 },
+      { "t": 30, "price": 1.4430, "volume": 20700000, "liquidity": 2822000000 },
+      { "t": 31, "price": 1.4392, "volume": 20200000, "liquidity": 2819000000 },
+      { "t": 32, "price": 1.4360, "volume": 19700000, "liquidity": 2816000000 },
+      { "t": 33, "price": 1.4335, "volume": 19300000, "liquidity": 2813000000 },
+      { "t": 34, "price": 1.4310, "volume": 18800000, "liquidity": 2810000000 },
+      { "t": 35, "price": 1.4295, "volume": 18400000, "liquidity": 2808000000 },
+      { "t": 36, "price": 1.4287, "volume": 18000000, "liquidity": 2806000000 },
+      { "t": 37, "price": 1.4292, "volume": 17700000, "liquidity": 2805000000 },
+      { "t": 38, "price": 1.4305, "volume": 17400000, "liquidity": 2804000000 },
+      { "t": 39, "price": 1.4318, "volume": 17100000, "liquidity": 2803000000 },
+      { "t": 40, "price": 1.4325, "volume": 16800000, "liquidity": 2802000000 },
+      { "t": 41, "price": 1.4332, "volume": 16500000, "liquidity": 2801000000 },
+      { "t": 42, "price": 1.4338, "volume": 16200000, "liquidity": 2800000000 },
+      { "t": 43, "price": 1.4342, "volume": 15900000, "liquidity": 2799000000 },
+      { "t": 44, "price": 1.4346, "volume": 15600000, "liquidity": 2798500000 },
+      { "t": 45, "price": 1.4349, "volume": 15300000, "liquidity": 2798000000 },
+      { "t": 46, "price": 1.4351, "volume": 15000000, "liquidity": 2797500000 },
+      { "t": 47, "price": 1.4353, "volume": 14800000, "liquidity": 2797000000 }
+    ]
+  },
+
+  "ground_truth": {
+    "final_price": 1.4353,
+    "rug_occurred": false,
+    "risk_level": "low",
+    "optimal_strategy": "mixed",
+    "max_return": 0.0851,
+    "max_drawdown": 0.0770,
+    "key_risk_factors": [
+      "high volatility during breakout",
+      "profit-taking after local top",
+      "macro sentiment sensitivity",
+      "temporary momentum exhaustion"
+    ]
+  }
+}

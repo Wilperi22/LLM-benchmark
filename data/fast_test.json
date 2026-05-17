@@ -1,0 +1,43 @@
+
+{
+  "id": "xrp_hourly_2026_05_14_to_2026_05_16",
+  "asset": {
+    "name": "XRP",
+    "symbol": "XRP",
+    "chain": "xrpl"
+  },
+
+  "fundamentals": {
+    "token_age_days": 4740,
+    "liquidity_locked": true,
+    "liquidity_usd": 2850000000,
+    "owner_percent": 0,
+    "top10_holders_percent": 18.4,
+    "mintable": false,
+    "contract_renounced": true,
+    "audit_exists": true
+  },
+
+  "market": {
+    "initial_price": 1.4271,
+    "steps": [
+      { "t": 0, "price": 1.4271, "volume": 18000000, "liquidity": 2820000000 },
+      { "t": 1, "price": 1.4310, "volume": 18500000, "liquidity": 2823000000 }
+    ]
+  },
+
+  "ground_truth": {
+    "final_price": 1.4353,
+    "rug_occurred": false,
+    "risk_level": "low",
+    "optimal_strategy": "mixed",
+    "max_return": 0.0851,
+    "max_drawdown": 0.0770,
+    "key_risk_factors": [
+      "high volatility during breakout",
+      "profit-taking after local top",
+      "macro sentiment sensitivity",
+      "temporary momentum exhaustion"
+    ]
+  }
+}
