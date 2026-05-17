@@ -17,7 +17,6 @@ It runs a step-by-step market simulation, logs decisions, saves a result JSON, a
 
 ```text
 benchmark.py             # main benchmark runner (also auto-generates graphs)
-plot_deepseek_xrp.py     # standalone plotting utility for existing result files
 requirements.txt
 data/                    # benchmark datasets
 result/                  # saved run logs
@@ -100,21 +99,6 @@ Two graphs are produced:
    - Orange bars: `In Crypto`
    - Blue line: portfolio value
 
-## Optional: Standalone Plotting Script
-
-If you want to generate additional or comparison charts from existing files:
-
-```bash
-python plot_deepseek_xrp.py --asset xrp --model deepseek
-```
-
-Useful options include:
-- `--asset`
-- `--model`
-- `--compare-models`
-- `--bar-in-crypto`
-- `--annotate-sizes`
-
 ## Configuration Notes
 
 In `benchmark.py`, these constants control runtime defaults:
@@ -162,4 +146,3 @@ Check:
 - Run `benchmark.py`
 - Get `RESULTS` JSON in `result/`
 - Get charts in `Final graphs/`
-- (Optional) use `plot_deepseek_xrp.py` for additional visualization modes
