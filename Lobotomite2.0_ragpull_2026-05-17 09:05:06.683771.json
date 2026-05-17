@@ -1,0 +1,242 @@
+[
+  {
+    "t": 0,
+    "price": 0.054,
+    "action": "buy",
+    "confidence": 0.75,
+    "position_size": 0.25,
+    "portfolio_value": 9997.5,
+    "Cash": 7500.0,
+    "In Crypto": 2497.5
+  },
+  {
+    "t": 1,
+    "price": 0.059,
+    "action": "buy",
+    "confidence": 0.85,
+    "position_size": 0.25,
+    "portfolio_value": 10226.875,
+    "Cash": 5625.0,
+    "In Crypto": 4601.875
+  },
+  {
+    "t": 2,
+    "price": 0.065,
+    "action": "buy",
+    "confidence": 0.85,
+    "position_size": 0.25,
+    "portfolio_value": 10693.456038135593,
+    "Cash": 4218.75,
+    "In Crypto": 6474.706038135593
+  },
+  {
+    "t": 3,
+    "price": 0.072,
+    "action": "sell",
+    "confidence": 0.95,
+    "position_size": 0.99,
+    "portfolio_value": 11383.63181075945,
+    "Cash": 11311.911990029334,
+    "In Crypto": 71.71982073011691
+  },
+  {
+    "t": 4,
+    "price": 0.081,
+    "action": "buy",
+    "confidence": 0.85,
+    "position_size": 0.25,
+    "portfolio_value": 11389.76881035321,
+    "Cash": 8483.933992522001,
+    "In Crypto": 2905.834817831207
+  },
+  {
+    "t": 5,
+    "price": 0.089,
+    "action": "buy",
+    "confidence": 0.85,
+    "position_size": 0.15,
+    "portfolio_value": 11675.492251645068,
+    "Cash": 7211.343893643701,
+    "In Crypto": 4464.1483580013655
+  },
+  {
+    "t": 6,
+    "price": 0.094,
+    "action": "buy",
+    "confidence": 0.85,
+    "position_size": 0.15,
+    "portfolio_value": 11925.205401634132,
+    "Cash": 6129.642309597146,
+    "In Crypto": 5795.563092036985
+  },
+  {
+    "t": 7,
+    "price": 0.091,
+    "action": "sell",
+    "confidence": 0.85,
+    "position_size": 0.35,
+    "portfolio_value": 11738.27691269166,
+    "Cash": 8091.388009564131,
+    "In Crypto": 3646.888903127528
+  },
+  {
+    "t": 8,
+    "price": 0.086,
+    "action": "sell",
+    "confidence": 0.85,
+    "position_size": 0.35,
+    "portfolio_value": 11536.692122893617,
+    "Cash": 9296.460368115278,
+    "In Crypto": 2240.2317547783387
+  },
+  {
+    "t": 9,
+    "price": 0.088,
+    "action": "hold",
+    "confidence": 0.65,
+    "position_size": 0.0,
+    "portfolio_value": 11588.790535795439,
+    "Cash": 9296.460368115278,
+    "In Crypto": 2292.3301676801607
+  },
+  {
+    "t": 10,
+    "price": 0.092,
+    "action": "hold",
+    "confidence": 0.65,
+    "position_size": 0.0,
+    "portfolio_value": 11692.987361599084,
+    "Cash": 9296.460368115278,
+    "In Crypto": 2396.5269934838043
+  },
+  {
+    "t": 11,
+    "price": 0.085,
+    "action": "sell",
+    "confidence": 0.85,
+    "position_size": 0.75,
+    "portfolio_value": 11508.982279531461,
+    "Cash": 10955.436642449604,
+    "In Crypto": 553.5456370818571
+  },
+  {
+    "t": 12,
+    "price": 0.078,
+    "action": "sell",
+    "confidence": 0.85,
+    "position_size": 0.65,
+    "portfolio_value": 11463.065994550601,
+    "Cash": 11285.280160523134,
+    "In Crypto": 177.785834027467
+  },
+  {
+    "t": 13,
+    "price": 0.065,
+    "action": "sell",
+    "confidence": 0.95,
+    "position_size": 0.85,
+    "portfolio_value": 11433.309090580255,
+    "Cash": 11411.085861326821,
+    "In Crypto": 22.22322925343337
+  },
+  {
+    "t": 14,
+    "price": 0.031,
+    "action": "sell",
+    "confidence": 0.95,
+    "position_size": 0.95,
+    "portfolio_value": 11421.674563369204,
+    "Cash": 11421.144624825469,
+    "In Crypto": 0.5299385437357198
+  },
+  {
+    "t": 15,
+    "price": 0.018,
+    "action": "sell",
+    "confidence": 0.95,
+    "position_size": 0.95,
+    "portfolio_value": 11421.452038755731,
+    "Cash": 11421.436653443172,
+    "In Crypto": 0.015385312560069272
+  },
+  {
+    "t": 16,
+    "price": 0.0095,
+    "action": "sell",
+    "confidence": 0.95,
+    "position_size": 0.8547395866705152,
+    "portfolio_value": 11421.444766567223,
+    "Cash": 11421.443548563313,
+    "In Crypto": 0.001218003911005484
+  },
+  {
+    "t": 17,
+    "price": 0.012,
+    "action": "sell",
+    "confidence": 0.95,
+    "position_size": 0.12821093800057726,
+    "portfolio_value": 11421.445086894559,
+    "Cash": 11421.443748372367,
+    "In Crypto": 0.0013385221927260265
+  },
+  {
+    "t": 18,
+    "price": 0.015,
+    "action": "sell",
+    "confidence": 0.95,
+    "position_size": 0.11154351606050221,
+    "portfolio_value": 11421.44542134106,
+    "Cash": 11421.44393223512,
+    "In Crypto": 0.0014891059394077045
+  },
+  {
+    "t": 19,
+    "price": 0.0135,
+    "action": "sell",
+    "confidence": 0.95,
+    "position_size": 0.09927372929384697,
+    "portfolio_value": 11421.445272296447,
+    "Cash": 11421.444066120635,
+    "In Crypto": 0.0012061758109202405
+  },
+  {
+    "t": 20,
+    "price": 0.011,
+    "action": "sell",
+    "confidence": 0.95,
+    "position_size": 0.08934635636446227,
+    "portfolio_value": 11421.445048842103,
+    "Cash": 11421.444154485076,
+    "In Crypto": 0.0008943570272082674
+  },
+  {
+    "t": 21,
+    "price": 0.0085,
+    "action": "sell",
+    "confidence": 0.95,
+    "position_size": 0.08130518429166067,
+    "portfolio_value": 11421.444845523856,
+    "Cash": 11421.444209717314,
+    "In Crypto": 0.0006358065411607865
+  },
+  {
+    "t": 22,
+    "price": 0.007,
+    "action": "sell",
+    "confidence": 0.95,
+    "position_size": 0.07480076954832782,
+    "portfolio_value": 11421.444733286049,
+    "Cash": 11421.44424633304,
+    "In Crypto": 0.00048695300975961405
+  },
+  {
+    "t": 23,
+    "price": 0.0062,
+    "action": "sell",
+    "confidence": 0.95,
+    "position_size": 0.06956471567994486,
+    "portfolio_value": 11421.444677604086,
+    "Cash": 11421.444276493936,
+    "In Crypto": 0.0004011101506105621
+  }
+]
