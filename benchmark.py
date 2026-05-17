@@ -73,7 +73,7 @@ Rules:
 - NO markdown
 - NO explanations outside JSON
 - OUTPUT JSON ONLY
-- Eaven if you hold give position size 0.00
+- Even if you hold, give position size 0.00
 
 RECENT MARKET HISTORY:
 {json.dumps(recent_history, indent=2)}
